@@ -1,2 +1,2 @@
 # Add your variables here
-fisrt_number = 200
+first_number = 200
